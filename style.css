@@ -14,7 +14,7 @@ picture {
 }
 
 .center {
-    width: 600px; /* Adjust the width as needed to make the image larger */
+    width: 500px; /* Adjust the width as needed to make the image larger */
     max-width: none; /* Optional: to override any max-width constraints */
     height: auto;
 }
